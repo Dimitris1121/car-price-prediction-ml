@@ -55,6 +55,7 @@ matplotlib, seaborn, scikit-learn, LightGBM
 ## Files
 - `Dissertation_Code.ipynb` — full analysis and modelling notebook
 - `vehicles.csv` — raw dataset (download from Kaggle)
+- - `car_price_prediction_report.pdf` — full project report including EDA, visualizations, model results and conclusions
 
 ## Dataset Download
 The dataset is too large for GitHub. Download it from Kaggle:
